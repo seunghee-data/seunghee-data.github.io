@@ -1,8 +1,8 @@
 main:
+  - title: "Python"
+    url: /categories/python/
   - title: "SQL"
     url: /categories/sql/
-  - title: "통계학"
-    url: /categories/statistics/
   - title: "머신러닝"
     url: /categories/ml/
   - title: "딥러닝"
