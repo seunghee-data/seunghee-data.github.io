@@ -14,7 +14,7 @@ plugins:
 navigation: main         # 중요: _data/navigation.yml 메뉴를 상단에 띄움
 
 # [디자인 설정]
-minimal_mistakes_skin: "default" # 스킨 (default, air, aqua, contrast 등 선택 가능)
+minimal_mistakes_skin: "dark" # 스킨 (default, air, aqua, contrast 등 선택 가능)
 
 # [저자(대표님) 프로필 설정] - 왼쪽 사이드바에 표시됨
 author:
