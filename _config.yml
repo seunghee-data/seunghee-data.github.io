@@ -2,3 +2,7 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+
+# 내 사이트 주소 설정 (이게 없으면 글자만 나옵니다)
+url: "https://본인아이디.github.io"
+baseurl: ""
