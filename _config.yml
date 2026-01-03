@@ -1,15 +1,24 @@
+# [사이트 기본 정보]
+url: "https://seunghee-data.github.io"
+baseurl: ""
+title: "StudioSon"
+locale: "ko-KR"          # 필수: 검색, 공유 등 모든 메뉴를 한글로 변환함
+
+# [테마 및 플러그인]
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-# 1. 사이트 식별 정보
-url: "https://seunghee-data.github.io"
-baseurl: ""
-title: "StudioSon"
+# [기능 활성화]
+navigation: main         # 중요: _data/navigation.yml 메뉴를 상단에 띄움
 
-# 2. 메뉴 활성화 스위치 (맨 위에 두셔도 됩니다)
-navigation: main
+# [디자인 설정]
+minimal_mistakes_skin: "default" # 스킨 (default, air, aqua, contrast 등 선택 가능)
 
-# 3. 디자인 스킨
-minimal_mistakes_skin: "default"
+# [저자(대표님) 프로필 설정] - 왼쪽 사이드바에 표시됨
+author:
+  name: "StudioSon"
+  bio: "AI & Data Science 공부 기록"
+  location: "South Korea"
+  avatar: "/assets/images/profile.png" # 나중에 사진 넣으실 때 사용
