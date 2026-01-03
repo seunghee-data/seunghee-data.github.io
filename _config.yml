@@ -18,7 +18,7 @@ minimal_mistakes_skin: "default" # 스킨 (default, air, aqua, contrast 등 선�
 
 # [저자(대표님) 프로필 설정] - 왼쪽 사이드바에 표시됨
 author:
-  name: "StudioSon"
-  bio: "AI & Data Science 공부 기록"
-  location: "South Korea"
-  avatar: "/assets/images/profile.png" # 나중에 사진 넣으실 때 사용
+  name: "손승희 | Data Lab"
+  bio: "영상 10년, 이제 데이터로 미래를 봅니다"
+  location: "Seoul, South Korea"
+  avatar: "/assets/images/profile.png"
