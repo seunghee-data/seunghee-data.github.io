@@ -3,11 +3,13 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+# 1. 사이트 식별 정보
 url: "https://seunghee-data.github.io"
 baseurl: ""
 title: "StudioSon"
 
-# 메뉴(내비게이션) 활성화
+# 2. 메뉴 활성화 스위치 (맨 위에 두셔도 됩니다)
 navigation: main
 
+# 3. 디자인 스킨
 minimal_mistakes_skin: "default"
