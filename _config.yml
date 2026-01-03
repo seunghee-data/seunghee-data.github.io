@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+# 사이트 하단 설정
+footer:
+  links:
+    - label: "studioson"
+      icon: "fas fa-fw fa-link"
+      url: "https://본인아이디.github.io"
+
+# "Powered by Jekyll & Minimal Mistakes" 문구 숨기기
+# (이 기능을 지원하지 않는 버전일 경우 코드가 무시될 뿐 에러는 안 납니다)
