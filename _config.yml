@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# [확정] 대표님 정보 반영
+url: "https://seunghee-data.github.io"
+baseurl: ""
+title: "StudioSon"
+
+minimal_mistakes_skin: "default"
