@@ -1,6 +1,6 @@
 ---
 title: "[파이썬 10일 완성] Day 2 — 데이터의 그릇 (Data Structures)"
-date: 2026-01-04 00:00:00 +0900
+date: 2026-01-04
 categories: [python]
 layout: single
 author_profile: true
