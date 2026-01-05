@@ -1,6 +1,6 @@
 ---
 title: "[파이썬 깊게 파기] Day 3: 흐름 제어 (Control Flow)"
-date: 2026-01-05
+date: 2026-01-05 00:00:00 +0900
 categories: [python]
 layout: single
 author_profile: true
