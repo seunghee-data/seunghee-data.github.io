@@ -1,6 +1,6 @@
 ---
 title: "[파이썬 깊게 파기] Day 4: 함수, 나만의 주문 제작 (Function)"
-date: 2026-01-06
+date: 2026-01-06 00:00:00 +0900
 categories: [python]
 layout: single
 author_profile: true
