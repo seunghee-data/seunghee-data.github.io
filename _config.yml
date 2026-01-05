@@ -21,7 +21,7 @@ minimal_mistakes_skin: "dark" # 스킨 (default, air, aqua, contrast 등 선택 
 author:
   name: "손승희 | Data Lab"
   bio: "영상 10년, 이제 데이터로 미래를 봅니다"
-  location: "Seoul, South Korea"
+  location: "Incheon, South Korea"
   avatar: "/assets/images/profile.png"
 collections:
   pages:
