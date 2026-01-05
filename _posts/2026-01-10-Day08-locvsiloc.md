@@ -1,6 +1,6 @@
 ---
 title: "[파이썬 깊게 파기] Day 8: 인덱싱, 명찰과 번호의 대결 (loc vs iloc)"
-date: 2026-01-10  00:00:00 +0900
+date: 2026-01-10 00:00:00 +0900
 categories: [python]
 layout: single
 author_profile: true
