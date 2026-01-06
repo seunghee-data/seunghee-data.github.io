@@ -2,7 +2,7 @@
 url: "https://seunghee-data.github.io"
 baseurl: ""
 title: "StudioSon"
-locale: "ko-KR"          # 필수: 검색, 공유 등 모든 메뉴를 한글로 변환함
+locale: "ko-KR"
 timezone: Asia/Seoul
 
 # [테마 및 플러그인]
@@ -12,21 +12,28 @@ plugins:
   - jekyll-include-cache
 
 # [기능 활성화]
-navigation: main         # 중요: _data/navigation.yml 메뉴를 상단에 띄움
+navigation: main
 
 # [디자인 설정]
-minimal_mistakes_skin: "dark" # 스킨 (default, air, aqua, contrast 등 선택 가능)
+minimal_mistakes_skin: "dark"
 
-# [저자(대표님) 프로필 설정] - 왼쪽 사이드바에 표시됨
+# [저자 프로필]
 author:
   name: "손승희 | Data Lab"
   bio: "영상 10년, 이제 데이터로 미래를 봅니다"
   location: "Incheon, South Korea"
   avatar: "/assets/images/profile.png"
+
 collections:
   pages:
     output: true
     permalink: /:path/
+
+# 🔧 페이징
+paginate: 8
+paginate_path: /page:num/
+
+# 🔧 전역 기본 레이아웃 규칙
 defaults:
   - scope:
       path: ""
@@ -36,3 +43,12 @@ defaults:
       author_profile: true
       toc: true
       toc_sticky: true
+      read_time: true
+      related: true
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
+      entries_layout: grid
