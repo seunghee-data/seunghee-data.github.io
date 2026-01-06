@@ -1,0 +1,17 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+.archive__item {
+  padding: 1.4rem;
+  border-radius: 14px;
+}
+
+.archive__item-excerpt {
+  margin-top: 0.6rem;
+  opacity: 0.85;
+}
+
+.archive__item-title {
+  font-weight: 600;
+}
