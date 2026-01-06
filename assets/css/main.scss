@@ -4,27 +4,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-.archive__item {
-  padding: 1.4rem;
-  border-radius: 14px;
-}
-
-.archive__item-excerpt {
-  margin-top: 0.6rem;
-  opacity: 0.85;
-}
-
-.archive__item-title {
-  font-weight: 600;
-}
-/* 홈 카드 제목: 크기/줄간격 다운 */
 .layout--home .archive__item-title {
   font-size: 1.05rem;
   line-height: 1.25;
-  margin-bottom: .35rem;
-}
-
-/* 제목 링크도 동일 적용 */
-.layout--home .archive__item-title a {
-  font-size: inherit;
 }
