@@ -6,7 +6,6 @@ layout: single
 author_profile: true
 header:
   overlay_image: "/assets/images/python-10days/day1/Mbanner.png"
-
 ---
 
 ## 1. 오늘의 목표
