@@ -27,3 +27,12 @@ collections:
   pages:
     output: true
     permalink: /:path/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      toc: true
+      toc_sticky: true
