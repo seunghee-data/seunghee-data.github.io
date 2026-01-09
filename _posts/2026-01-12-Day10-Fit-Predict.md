@@ -1,6 +1,6 @@
 ---
 title: "[파이썬 깊게 파기] Day 10: 머신러닝, 기계가 세상을 이해하는 법 (Fit & Predict)"
-date: 2026-01-12 00:00:00 +0900
+date: 2026-01-12
 categories: [python]
 layout: single
 author_profile: true
